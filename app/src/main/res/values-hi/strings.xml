@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">मासिक खर्चे</string>
+    <string name="action_settings">सेटिंग्स</string>
+
+    <string-array name="months">
+        <item>जनवरी</item>
+        <item>फरवरी</item>
+        <item>मार्च</item>
+        <item>अप्रैल</item>
+        <item>मई</item>
+        <item>जून</item>
+        <item>जुलाई</item>
+        <item>अगस्त</item>
+        <item>सितंबर</item>
+        <item>अक्टूबर</item>
+        <item>नवंबर</item>
+        <item>दिसंबर</item>
+    </string-array>
+    <string name="title_activity_year_view">Year View</string>
+    <string name="expense_name_hint">खर्चे का नाम</string>
+    <string name="cost_hint">लागत</string>
+    <string name="cancel_button">रद्द करना</string>
+    <string name="save_button">ओके</string>
+    <string name="add_menu_button">जोड़ना</string>
+    <string name="delete_menu_button">हटाए</string>
+    <string name="yearly_view_menu_button">साल के खर्चे</string>
+    <string name="total_test">कुल: </string>
+    <string name="currency_text"> ₹</string>
+    <string name="years_expenses"> के खर्चे</string>
+    <string name="no_expenses">कोई खर्चा नहीं :)</string>
+    <string name="enter_expenses">खर्चा दर्ज करें:</string>
+    <string name="set_currency">मुद्रा चुनें</string>
+    <string name="title_activity_currency_selection">मुद्रा चुनें</string>
+
+    <string-array name="currencies">
+        <item>₹</item>
+        <item>AED</item>
+        <item>AFN</item>
+        <item>AUD</item>
+        <item>BDT</item>
+        <item>BTN</item>
+        <item>CAD</item>
+        <item>EGP</item>
+        <item>ETB</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>KES</item>
+        <item>KWD</item>
+        <item>LKR</item>
+        <item>MMK</item>
+        <item>MUR</item>
+        <item>MVR</item>
+        <item>MYR</item>
+        <item>NAD</item>
+        <item>NGN</item>
+        <item>NPR</item>
+        <item>NZD</item>
+        <item>PKR</item>
+        <item>PHP</item>
+        <item>QAR</item>
+        <item>SAR</item>
+        <item>THB</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+
+</resources>

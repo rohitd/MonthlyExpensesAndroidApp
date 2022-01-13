@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#82b1ff</color>
+    <color name="colorPrimaryDark">#448aff</color>
+    <color name="colorAccent">#3949ab</color>
+    <color name="border">#757575</color>
+    <color name="costColor">#0d47a1</color>
+    <color name="rowColor1">#bcaaa4</color>
+    <color name="rowColor2">#000000</color>
+    <color name="rowColor3">#7986cb</color>
+    <color name="rowColor4">#bdbdbd</color>
+    <color name="background">#fff9c4</color>
+
+</resources>

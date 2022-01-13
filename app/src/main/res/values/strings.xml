@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Monthly Expenses</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="currencies">
+        <item>Rs.</item>
+        <item>AED</item>
+        <item>AFN</item>
+        <item>AUD</item>
+        <item>BDT</item>
+        <item>BTN</item>
+        <item>CAD</item>
+        <item>EGP</item>
+        <item>ETB</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>KES</item>
+        <item>KWD</item>
+        <item>LKR</item>
+        <item>MMK</item>
+        <item>MUR</item>
+        <item>MVR</item>
+        <item>MYR</item>
+        <item>NAD</item>
+        <item>NGN</item>
+        <item>NPR</item>
+        <item>NZD</item>
+        <item>PKR</item>
+        <item>PHP</item>
+        <item>QAR</item>
+        <item>SAR</item>
+        <item>THB</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+    <string name="title_activity_year_view">Year View</string>
+    <string name="expense_name_hint">Expense Name</string>
+    <string name="cost_hint">Cost</string>
+    <string name="cancel_button">CANCEL</string>
+    <string name="save_button">SAVE</string>
+    <string name="add_menu_button">Add</string>
+    <string name="delete_menu_button">Delete</string>
+    <string name="yearly_view_menu_button">Yearly View</string>
+    <string name="total_test">TOTAL: </string>
+    <string name="currency_text"> Rs.</string>
+    <string name="years_expenses">\'s Expenses</string>
+    <string name="no_expenses">No Expenses :)</string>
+    <string name="enter_expenses">Enter Expense:</string>
+    <string name="set_currency">Set Currency</string>
+    <string name="title_activity_currency_selection">Select Currency</string>
+</resources>

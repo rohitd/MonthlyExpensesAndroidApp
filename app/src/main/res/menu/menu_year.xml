@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.drapps.monthlyexpenses.YearViewActivity">
+
+    <item
+        android:id="@+id/prevyear"
+        android:orderInCategory="100"
+        android:title="Previous Year Expenses"
+        app:showAsAction="never" />
+
+
+</menu>

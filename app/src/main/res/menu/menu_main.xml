@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.drapps.monthlyexpenses.MainActivity">
+
+    <item
+        android:id="@+id/addButton"
+        android:icon="@drawable/ic_add_white"
+        android:title="@string/add_menu_button"
+        app:showAsAction="ifRoom"/>
+
+
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="100"
+        android:title="@string/delete_menu_button"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/yearView"
+        android:orderInCategory="100"
+        android:title="@string/yearly_view_menu_button"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/setCurrency"
+        android:orderInCategory="100"
+        android:title="@string/set_currency"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/deleteButton"
+        android:title="@string/delete_menu_button"
+        android:visible="false"
+        app:showAsAction="ifRoom"/>
+
+</menu>
